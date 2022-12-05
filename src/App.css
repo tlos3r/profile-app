@@ -1,0 +1,9 @@
+.App {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.my-profile {
+    display: flex;
+    width: 80%;
+}
